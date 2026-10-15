@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/jupyter/nbconvert/commit/e681152f214b65387f875aad96a4726994533a0b",
       "git:hexsha": "e681152f214b65387f875aad96a4726994533a0b",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v7.17.2"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v7.17.2",
+      "repolex:parsedAt": "2026-10-15T15:46:27.020373+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jupyter/nbconvert/commit/93a30d1be52350196a65bd0ca7cdb539fea27679",
