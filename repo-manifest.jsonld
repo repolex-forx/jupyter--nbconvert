@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jupyter/nbconvert/commit/e681152f214b65387f875aad96a4726994533a0b",
       "git:hexsha": "e681152f214b65387f875aad96a4726994533a0b",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v7.17.2"
     },
     {
